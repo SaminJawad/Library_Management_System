@@ -2,7 +2,7 @@
 
 # 1 Overview 
 
-***1.1 Objective:*** </n>
+***1.1 Objective:*** </b>
 Design and implement a simple Java-based library management system that:/n
 • Stores data from Excel files (books, students, teachers)/n
 • Allows users (students and teachers) to borrow and return books/n
