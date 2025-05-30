@@ -5,9 +5,6 @@ public class Book {
     private int availableCopies;
 
     public Book() {
-        this.bookId = "";
-        this.title = "";
-        this.author = "";
         this.availableCopies = 0;
     }
 
